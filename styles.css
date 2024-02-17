@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+*{
+    font-weight: 600;
+}
+
+
+
+
+.mulish-uniquifier {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.landingpage{
+    width: 1440px;
+    background-color: antiquewhite;
+    
+
+}
+header{
+    /* margin-left: 135px; */
+    display: flex;
+    justify-content: space-between;
+    padding-left: 135px;
+}
+.orange{
+    color:
+    rgb(255, 84, 0);
+}
+.head-1{
+    display: flex;
+    margin-top: 50px;
+    /* gap: 25px; */
+   
+    background-color: blueviolet;
+    gap: 16.63px;
+
+}
+.head-1 img{
+    width: 56.1;
+    height: 48px;
+}
+.header-h3{
+    margin-top: 2px;
+    width: 201px;
+    height: 45px;
+    
+}
+.nav-bar>ul{
+   
+    list-style: none;
+    /* display: grid;
+    grid-template-columns: repeat(6,auto);
+    column-gap: 44px; */
+    display: flex;
+    gap: 44px;
+    /* padding-left: 0px; */
+    padding-right: 0px;
+
+ 
+  
+}
+.logo{
+    width: 48px;
+    height: 56.1px;
+}
+.nav-bar li{
+ 
+    
+    
+    
+}
+.a-7, .a-8, .a-9, .a-10, .a-11{
+    color: red;
+    height: 23px;
+ 
+}
+.naving{
+    width: 506px;
+    height: 43px;
+    background-color: aliceblue;
+    margin-top: 53px;
+  
+}
+.a-7{
+    color:  rgb(255, 84, 0);
+}
+.nav-bar li a{
+    text-decoration: none;
+}
+/* .proj{
+    background-color:rgba(255, 255, 255, 0.3)
+} */
+.react-1{
+    background-image: url('Images/Group 13 (1) (1).png');
+    background-repeat: no-repeat;
+    width: 1170px;
+    height: 500px;
+    margin-left: 135px;
+    border-radius: 16px;
+    margin-right: 135px;
+    
+}
