@@ -105,9 +105,6 @@ header {
     background-color:rgba(255, 255, 255, 0.3);
     width: 800px;
     border-radius: 8px;
-  
-    /* align-items: space-around; */
- /* justify-content: space-around; */
     height: 84px;
   
 }
@@ -124,37 +121,58 @@ header {
 }
 .jag1{
     margin-left: 16px;
+    
+    padding-left: 16px;
 }
+
 #w-1, 
 #w-2, 
 #w-3,
  option{
     margin-top: 16px;
+    
   
    
  }
  .jag{
     margin-left: 24px;
+    padding-left: 16px;
  }
 
 .btn-1{
     height: 52px;
     width: 174px;
     background-color: rgb(255, 84, 0);
-    font-size: 16px;
-    color: rgb(255, 255, 255);
-    font-weight: 700;
-    /* padding-top: 16px; */
+   
+
+   
     border-radius: 8px;
     margin-top: 16px;
     border: none;
     margin-left: 24px;
     
+
     
 }
+.btn-1 h4{
+    font-size: 16px;
+    font-weight:700 ;
+    /* margin-left: 16px; */
+    width: 73px;
+    color: rgb(255, 255, 255);
+    margin-left: 62px;
+    margin-top: 16px;
+}
+    
+
 .btn-1 img{
     height: 24px;
-    padding-top: 14px;
+    /* padding-top: 16px; */
+    left: 975px;
+    top: 530px;
+    position: absolute;
+    width: 24px;
+    
 
     
 
@@ -168,18 +186,14 @@ height: 288px;
  /* margin-top: 106px; */
  background: linear-gradient(rgba(19, 19, 24, 0.8), rgba(19, 19, 24, 0));
  border-radius: 16px;
- /* padding-left: 185px;
- padding-top: 106px; 
- padding-right: 106px; */
- /* padding-bottom:106px; */
+ 
 
 
 
 }
 .explore h3{
     text-align: center;
-    /* width: 596px;
-    height: 80px; */
+ 
     font-weight: 800;
     font-style: normal;
     font-size: 64px;
@@ -196,7 +210,6 @@ height: 288px;
     color: rgb(255, 255, 255);
     letter-spacing: 0%;
     margin-bottom: 48px;
-    /* margin-top: 0px; */
-    /* position: relative; */
+ 
 
 }
