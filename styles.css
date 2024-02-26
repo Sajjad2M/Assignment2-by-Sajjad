@@ -435,7 +435,7 @@ height: 288px;
 .cards img{
     width: 64px;
     height: 64px;
-    margin-bottom: px;
+
 }
 .card1{
    width: 573px;
@@ -559,7 +559,7 @@ height: 288px;
 .reci-icon{
     display: flex;
     align-items: center;
-    /* justify-content: center; */
+    
     gap: 8px;
    
 }
