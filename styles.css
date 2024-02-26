@@ -8,7 +8,7 @@
     width: 1440px;
     
     height: auto;
-    border: 1px solid orange;
+    
     /* position: relative; */
 
     
@@ -432,10 +432,9 @@ height: 288px;
     margin-left: 135px;
     margin-bottom: 24px;
 }
-.cards img{
+ .cards img{
     width: 64px;
-    height: 64px;
-
+    height: 64px; 
 }
 .card1{
    width: 573px;
@@ -1007,7 +1006,7 @@ footer{
     margin-top: 5850px;
     margin-left: 719px;
     /* background-color: #f0f0f0; */
-    background: linear-gradient(to right, #f0f0f0 30%, rgba(255, 255, 255, 0.3) 70%);
+    background: linear-gradient(to right, rgb(255, 255, 255) 30%, rgba(255, 255, 255, 0.3) 70%);
     border: none;
     border-radius: 2px;
 
