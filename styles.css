@@ -1523,7 +1523,8 @@ footer{
     }
     .timer{
         height:24px;
-        margin-bottom: 8px;
+        margin-bottom: 6px;
+        margin-left: 2px;
     }
     
     .reci-icon{
@@ -1607,6 +1608,10 @@ footer{
         height: 24px;
         display: flex;
         gap: 23px;
+    }
+    .timer img{
+        height: 18px;
+
     }
     /* ---------------------------- */
     .simple{
